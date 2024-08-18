@@ -1,6 +1,7 @@
 # JEST `Software Testing Tool`
 
-https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbbc5bek5atvngq2imz6d.png
+![image](https://github.com/user-attachments/assets/e56e1269-004e-403a-ad5f-fcc329d35576)
+
 
 ### steps to configure jest tool
 
