@@ -1,6 +1,6 @@
 # JEST `Software Testing Tool`
 
-![image](https://github.com/user-attachments/assets/e56e1269-004e-403a-ad5f-fcc329d35576)
+<img src="https://github.com/user-attachments/assets/e56e1269-004e-403a-ad5f-fcc329d35576" alt="image" width="300" height="auto">
 
 
 ### steps to configure jest tool
